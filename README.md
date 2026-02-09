@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiii :3
 
 <!--
 **DeadAndBr0ken/DeadAndBr0ken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 hiiii hellooo :3
-![image alt](https://github.com/DeadAndBr0ken/DeadAndBr0ken/blob/74ff065e83ed448e0e8f03d87bde8a905c914682/146770.png)
+![image alt](https://github.com/DeadAndBr0ken/DeadAndBr0ken/blob/d45a429c95546d62ee0784ac7cf5ec260559266f/Pics.jfif)
 
 <!--
 **DeadAndBr0ken/DeadAndBr0ken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

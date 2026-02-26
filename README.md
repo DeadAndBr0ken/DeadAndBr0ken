@@ -1,18 +1,17 @@
-hiiii :3
-
 ![image alt](https://github.com/DeadAndBr0ken/DeadAndBr0ken/blob/d45a429c95546d62ee0784ac7cf5ec260559266f/Pics.jfif)
 
-<!--
-**DeadAndBr0ken/DeadAndBr0ken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+  </div>
+  <div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=hiii+:3" alt="Typing SVG" /></a>
+  </div>
+</div>

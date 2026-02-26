@@ -20,4 +20,4 @@
 
 <br>
 <div align=center>
-✦ · ─── · <a href="https://ppanchiko.atabook.org/"><b>atabook</b></a> · ─── · ✦
+✦ · ─── · <a href="https://ppanchiko.atabook.org/"><b>atabook</b></a> ✦ <a href="https://ppanchiko.straw.page"><b>strawpage</b></a> · ─── · ✦
